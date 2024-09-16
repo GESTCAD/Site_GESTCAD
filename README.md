@@ -1,6 +1,6 @@
 
 # Sistema de Agendamento e Gestão de Consultas
-
+![img](/imagesReadme/banner.png)
 Este projeto é um sistema web desenvolvido em **Flutter Web** para gerenciar e agendar consultas em um consultório de fisioterapia. O sistema inclui autenticação de usuários e armazenamento de dados utilizando o **Firebase Auth** e o **Firebase Realtime Database**.
 
 
